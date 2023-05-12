@@ -1,0 +1,108 @@
+{
+  "startScreen": {
+    "title": "Hello",
+    "subtitle1": "Are you ready to hydrate?",
+    "subtitle2": "Congratulations! You've hydrated enough for today",
+    "todaySection": {
+      "title": "Today"
+    },
+    "streakSection": {
+      "activeStreak": {
+        "noStreak": {
+          "title": "You are amazing!",
+          "subtitle": "(your streak could be better tho)"
+        },
+        "streak": {
+          "title": "You are not on fire!",
+          "subtitle": "(but your streak is!)"
+        }
+      },
+      "inactiveStreak": {
+          "title1": "Streaks",
+          "title2": "Aren't for everyone",
+          "subtitle1": "But if they are for you, activate them in the settings to",
+          "subtitle2": "imporove your hydration"
+      }
+    }
+  },
+  "settingsScreen": {
+    "title": "Settings",
+    "subtitle": "Customize your hydration"
+  },
+  "personalSettingsScreen": {
+    "title": "Personal",
+    "subtitle": "Help us improve your hydration",
+    "inputs": {
+      "name": "Your name:",
+      "weight": "Your weight in kg:",
+      "workout": "How much do you work out on average per day?",
+      "diet": "Does your daily diet include lots of fruits and greens?",
+      "climate": "Are you currently exposed to hot climates?"
+    }
+  },
+  "waterSettingsScreen": {
+    "title": "Water settings",
+    "subtitle": "Hydrate the way you want to",
+    "goalSection": {
+      "title": "Daily hydration goal"
+    },
+    "intakeSettingsSection": {
+      "title": "Intake settings",
+      "btn1": {
+        "title": "calculate",
+        "textEnabled": "Calculate your reccomended water intake based on your personal information",
+        "textDisabled": "Fill in you personal information in order to use this feauture"
+      },
+      "btn2": {
+        "title": "enter manually",
+        "text": "Sometimes, a general calculation does not fit your needs. In that case manually enter the amount of water you'd like to consume"
+      }
+    },
+    "unitsSection": {
+      "title": "Units",
+      "text": "One unit of water equals:"
+    }
+  },
+  "notificationSettingsScreen": {
+    "title": "Notifications",
+    "subtitle": "Don't forget to hydrate!",
+    "streakSection": {
+      "title": "Streak",
+      "text": "Set a reminder for when your hydration streak is running dry"
+    },
+    "remindersSection": {
+      "title": "Hydrating reminders",
+      "text1": "bad memory? fear not!",
+      "text2": "set reminders to help you remeber to hydrate"
+    }
+  },
+  "importantInfoScreen": {
+    "title": "Information",
+    "subtitle": "Keep the waters safe!",
+    "infoSection": {
+      "title": "Important",
+      "text1": "Nullam interdum mauris libero, quis ullamcorper mauris sollicitudin in. Sed condimentum tortor nec rhoncus rhoncus. Integer non scelerisque odio. Donec tincidunt lectus in eros vestibulum molestie. Cras eget erat a nulla ornare consequat in vel lectus. Nam suscipit libero quam. Nam vel ornare velit, nec eleifend justo.",
+      "text2": "Suspendisse potenti. Suspendisse dignissim magna quam, id tempor orci pulvinar at. Duis iaculis rhoncus ligula, sed semper arcu vehicula aliquam. Curabitur eget lorem nisl. Maecenas commodo tristique interdum. Maecenas nec convallis purus. Vestibulum quam nisl, fringilla in porta vitae, fringilla non sapien. Fusce lacinia, tellus sodales dictum lacinia, velit orci porta turpis, nec posuere ipsum nunc vel sem."
+    },
+    "linkSection": {
+      "link1": {
+        "title": "link1",
+        "url": "http://google.com"
+      },
+      "link2": {
+        "title": "link2",
+        "url": "http://google.com"
+      }
+    }
+  },
+  "notifications": {
+    "streakReminder": {
+      "title": "Hurry!",
+      "body": "Your streak is runnying dry, hydrate before it's too late"
+    },
+    "reminder": {
+      "title": "Time to hydrate",
+      "body": "Bottoms up!"
+    }
+  }
+}
