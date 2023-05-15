@@ -1,6 +1,6 @@
 # HighdRate - Water Tracking Mobile App
 
-HighdRate is a mobile app that helps you track your daily water intake and reminds you to drink more water throughout the day. With HighdRate, you can easily set a daily water intake goal and log your water intake with just a few taps. You can also view your daily, weekly, and monthly water intake history, and get reminders to drink more water throughout the day.
+HighdRate is a mobile app that helps you track your daily water intake and reminds you to drink more water throughout the day. With HighdRate, you can easily set a daily water intake goal and log your water intake with just a few taps. You can also get reminders to drink more water throughout the day.
 
 This is my first time using React Native, and this project was developed as a learning experience to gain familiarity with the framework and its features.
 
