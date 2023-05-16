@@ -24,9 +24,6 @@ const StartScreen = ({navigation}) => {
   //Get textcopy for screen
   const copy = require("../copy.json").startScreen;
 
-  //Title that icludes users name if that has been declared
-  const title = userName ? `${copy.title}${" "+userName}!` : copy.title + "!";
-
   //Data variables
   const [userName, setUserName] = useState();
   const [goalUnits, setGoalUnits] = useState();
@@ -38,6 +35,9 @@ const StartScreen = ({navigation}) => {
   const [storedDate, setStoredDate] = useState();
   const [lastStreakDay, setLastStreakDay] = useState();
   const [todayDate, setTodayDate] = useState();
+
+  //Title that icludes users name if that has been declared
+  const title = userName ? `${copy.title}${" "+userName}!` : copy.title + "!";
 
   //Gets data used in the screen
   const getScreenData = async () => {
